@@ -1,3 +1,7 @@
+# Семинар по NFR
+
+Работал в команде с Шелковым А.М.
+
 ## Таблица реестра
 
 | ID      | User Story / Feature                    | Category              | Requirement (NFR)                                                                                                  | Rationale / Risk                       | Acceptance (G-W-T)                                                                                                                                                                  | Evidence (test/log/scan/policy)                        | Trace (issue/link) | Owner    | Status      | Priority    | Severity      | Tags             |
